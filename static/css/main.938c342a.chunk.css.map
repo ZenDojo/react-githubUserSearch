@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/List/style.css"],"names":[],"mappings":"AAAA,MACI,eACJ","file":"main.938c342a.chunk.css","sourcesContent":["ul,li {\r\n    list-style: none;\r\n}"]}
